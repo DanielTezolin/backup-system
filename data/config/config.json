@@ -1,0 +1,22 @@
+{
+  "notifications": {
+    "active": false,
+    "teamsWebhook": ""
+  },
+  "AWSupload": {
+    "active": false,
+    "s3Bucket": "",
+    "s3Region": "",
+    "s3Key": "",
+    "s3Secret": ""
+  },
+  "databases": [
+    {
+      "dbname": "",
+      "username": "",
+      "password": "",
+      "host": "",
+      "port": ""
+    }
+  ]
+}
